@@ -1,0 +1,10 @@
+/home/dilipepparapalli/Documents/rustlings/target/debug/deps/libanstyle-654aa335dfe7b109.rmeta: /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/lib.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/macros.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/color.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/effect.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/reset.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/style.rs
+
+/home/dilipepparapalli/Documents/rustlings/target/debug/deps/anstyle-654aa335dfe7b109.d: /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/lib.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/macros.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/color.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/effect.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/reset.rs /home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/style.rs
+
+/home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/lib.rs:
+/home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/macros.rs:
+/home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/color.rs:
+/home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/effect.rs:
+/home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/reset.rs:
+/home/dilipepparapalli/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/style.rs:
